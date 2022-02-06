@@ -1,0 +1,125 @@
+ <?xml version="1.0"?>
+ 
+    <Entities TypeID="99" ID="67">
+        <Line TypeID="1" ID="521" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(100,100)" EndPoint="(100,116.60416667)">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Line>
+        <Line TypeID="1" ID="522" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(100,116.60416667)" EndPoint="(114.10972222,116.60416667)">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Line>
+        <Arc TypeID="6" ID="523" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="11.17424926" Center="(111.17424926,100)" StartAngle="180" EndAngle="270" ArcKind="0">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Arc>
+        <Line TypeID="1" ID="524" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(128.079702615717,113.131306291526)" EndPoint="(142.113035947218,88.82575074)">
+          <Color TypeID="101" ByKind="1" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Line>
+        <Line TypeID="1" ID="525" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(111.17424926,88.82575074)" EndPoint="(142.113035947218,88.82575074)">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Line>
+        <Line TypeID="1" ID="526" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(142.113035947218,88.82575074)" EndPoint="(128.079702615717,113.131306291526)">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Line>
+        <Line TypeID="1" ID="527" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(128.079702615717,113.131306291526)" EndPoint="(114.10972222,113.131306291526)">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Line>
+        <Line TypeID="1" ID="528" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(114.10972222,113.131306291526)" EndPoint="(114.10972222,116.60416667)">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Line>
+        <Circle TypeID="5" ID="529" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="6" Center="(111.17424926,100)">
+          <Color TypeID="101" ByKind="0" ColorType="1" TrueColor="30847" IndexColor="56"/>
+          <LineType TypeID="102" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+        </Circle>
+        <DimRotated TypeID="22" ID="530" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" StyleName="ISO-25" ExtLineFixed="False" ExtLineFixedLen="1.25" Measurement="14.10972222" TextOverride="" AltUnitsEnabled="False" ExtLine1Point="(100,116.60416667)" ExtLine2Point="(114.10972222,116.60416667)" TextPoint="(107.05486111,123.60416667)" Rotation="0">
+          <Color TypeID="101" ByKind="1" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          <LineType TypeID="102" ByKind="1" Name="Continuous" Comment="Solid line" Value=""/>
+          <DimLinesProp TypeID="136" LineWeight="-2" ExtBeyondTicks="0" BaselineSpacing="3.75" SuppressLine1="False" ExtLineWeight="-2" ExtSuppressLine1="False" ExtSuppressLine2="False" ExtBeyondDimLines="1.25" ExtOriginOffset="0.625">
+            <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <LineType TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <ExtLineType1 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtLineType2 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+          </DimLinesProp>
+          <DimSymbolArrowsProp TypeID="136" ArrowFirst ="0" ArrowSecond="0" ArrowLeader="0" ArrowSize="2.5" CenterMark="1" MarkSize="2.5" ArcLenSymbolPos="1"/>
+          <DimTextProp TypeID="136" TextStyle="Standard" TextHeight="2.5" DrawFrame="False" VerticalPosition="1" HorizontalPosition="3" OffsetFromDimLine="0.625" InsideAlign="True" OutsideAlign="True">
+            <TextColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          </DimTextProp>
+          <DimUnitsProp TypeID="136" UnitFormat="1" Precision="2" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="1" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+          <DimAltUnitsProp TypeID="136" UnitFormat="1" Precision="3" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="0.03937007874016" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+        </DimRotated>
+        <DimRotated TypeID="22" ID="531" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" StyleName="ISO-25" ExtLineFixed="False" ExtLineFixedLen="1.25" Measurement="16.60416667" TextOverride="" AltUnitsEnabled="False" ExtLine1Point="(100,116.60416667)" ExtLine2Point="(100,100)" TextPoint="(93,108.302083335)" Rotation="90">
+          <Color TypeID="101" ByKind="1" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          <LineType TypeID="102" ByKind="1" Name="Continuous" Comment="Solid line" Value=""/>
+          <DimLinesProp TypeID="136" LineWeight="-2" ExtBeyondTicks="0" BaselineSpacing="3.75" SuppressLine1="False" ExtLineWeight="-2" ExtSuppressLine1="False" ExtSuppressLine2="False" ExtBeyondDimLines="1.25" ExtOriginOffset="0.625">
+            <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <LineType TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <ExtLineType1 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtLineType2 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+          </DimLinesProp>
+          <DimSymbolArrowsProp TypeID="136" ArrowFirst ="0" ArrowSecond="0" ArrowLeader="0" ArrowSize="2.5" CenterMark="1" MarkSize="2.5" ArcLenSymbolPos="1"/>
+          <DimTextProp TypeID="136" TextStyle="Standard" TextHeight="2.5" DrawFrame="False" VerticalPosition="1" HorizontalPosition="3" OffsetFromDimLine="0.625" InsideAlign="True" OutsideAlign="True">
+            <TextColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          </DimTextProp>
+          <DimUnitsProp TypeID="136" UnitFormat="1" Precision="2" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="1" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+          <DimAltUnitsProp TypeID="136" UnitFormat="1" Precision="3" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="0.03937007874016" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+        </DimRotated>
+        <DimRadial TypeID="25" ID="532" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" StyleName="ISO-25" ExtLineFixed="False" ExtLineFixedLen="1.25" Measurement="11.17424926" TextOverride="" AltUnitsEnabled="False" Center="(111.17424926,100)" ChordPoint="(103.099640712218,92.2757172938389)" LeaderLen="11.031835245728">
+          <Color TypeID="101" ByKind="1" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          <LineType TypeID="102" ByKind="1" Name="Continuous" Comment="Solid line" Value=""/>
+          <DimLinesProp TypeID="136" LineWeight="-2" ExtBeyondTicks="0" BaselineSpacing="3.75" SuppressLine1="False" ExtLineWeight="-2" ExtSuppressLine1="False" ExtSuppressLine2="False" ExtBeyondDimLines="1.25" ExtOriginOffset="0.625">
+            <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <LineType TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <ExtLineType1 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtLineType2 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+          </DimLinesProp>
+          <DimSymbolArrowsProp TypeID="136" ArrowFirst ="0" ArrowSecond="0" ArrowLeader="0" ArrowSize="2.5" CenterMark="1" MarkSize="2.5" ArcLenSymbolPos="1"/>
+          <DimTextProp TypeID="136" TextStyle="Standard" TextHeight="2.5" DrawFrame="False" VerticalPosition="1" HorizontalPosition="0" OffsetFromDimLine="0.625" InsideAlign="True" OutsideAlign="True">
+            <TextColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          </DimTextProp>
+          <DimUnitsProp TypeID="136" UnitFormat="1" Precision="2" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="1" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+          <DimAltUnitsProp TypeID="136" UnitFormat="1" Precision="3" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="0.03937007874016" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+        </DimRadial>
+        <DimAligned TypeID="21" ID="533" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" StyleName="ISO-25" ExtLineFixed="False" ExtLineFixedLen="1.25" Measurement="28.06589523" TextOverride="" AltUnitsEnabled="False" ExtLine1Point="(128.079702615717,113.131306291526)" ExtLine2Point="(142.113035947218,88.82575074)" TextPoint="(141.158491564273,104.478624718485)">
+          <Color TypeID="101" ByKind="1" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          <LineType TypeID="102" ByKind="1" Name="Continuous" Comment="Solid line" Value=""/>
+          <DimLinesProp TypeID="136" LineWeight="-2" ExtBeyondTicks="0" BaselineSpacing="3.75" SuppressLine1="False" ExtLineWeight="-2" ExtSuppressLine1="False" ExtSuppressLine2="False" ExtBeyondDimLines="1.25" ExtOriginOffset="0.625">
+            <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <LineType TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <ExtLineType1 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtLineType2 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+          </DimLinesProp>
+          <DimSymbolArrowsProp TypeID="136" ArrowFirst ="0" ArrowSecond="0" ArrowLeader="0" ArrowSize="2.5" CenterMark="1" MarkSize="2.5" ArcLenSymbolPos="1"/>
+          <DimTextProp TypeID="136" TextStyle="Standard" TextHeight="2.5" DrawFrame="False" VerticalPosition="1" HorizontalPosition="3" OffsetFromDimLine="0.625" InsideAlign="True" OutsideAlign="True">
+            <TextColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          </DimTextProp>
+          <DimUnitsProp TypeID="136" UnitFormat="1" Precision="2" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="1" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+          <DimAltUnitsProp TypeID="136" UnitFormat="1" Precision="3" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="0.03937007874016" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+        </DimAligned>
+        <Dim2LineAngular TypeID="28" ID="534" Ver="1" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" StyleName="ISO-25" ExtLineFixed="False" ExtLineFixedLen="1.25" Measurement="59.99909075" TextOverride="" AltUnitsEnabled="False" ExtLine1StartPoint="(111.17424926,88.82575074)" ExtLine1EndPoint="(142.113035947218,88.82575074)" ExtLine2StartPoint="(128.079702615717,113.131306291526)" ExtLine2EndPoint="(142.113035947218,88.82575074)" ArcPoint="(127.458081145556,101.122453703337)" TextPoin="(125.533315642376,98.3698315559031)">
+          <Color TypeID="101" ID="535" ByKind="1" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          <LineType TypeID="102" ID="536" ByKind="1" Name="ByLayer" Comment="" Value=""/>
+          <DimLinesProp TypeID="136" LineWeight="-2" ExtBeyondTicks="0" BaselineSpacing="3.75" SuppressLine1="False" ExtLineWeight="-2" ExtSuppressLine1="False" ExtSuppressLine2="False" ExtBeyondDimLines="1.25" ExtOriginOffset="0.625">
+            <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <LineType TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+            <ExtLineType1 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+            <ExtLineType2 TypeID="102" ByKind="2" Name="Continuous" Comment="" Value=""/>
+          </DimLinesProp>
+          <DimSymbolArrowsProp TypeID="136" ArrowFirst ="0" ArrowSecond="0" ArrowLeader="0" ArrowSize="2.5" CenterMark="1" MarkSize="2.5" ArcLenSymbolPos="1"/>
+          <DimTextProp TypeID="136" TextStyle="Standard" TextHeight="2.5" DrawFrame="False" VerticalPosition="1" HorizontalPosition="3" OffsetFromDimLine="0.625" InsideAlign="True" OutsideAlign="True">
+            <TextColor TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+          </DimTextProp>
+          <DimUnitsProp TypeID="136" UnitFormat="1" Precision="2" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="1" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+          <DimAltUnitsProp TypeID="136" UnitFormat="1" Precision="3" Decimal="44" RoundOff="0" Prefix="" Suffix="" MeasurementScale="0.03937007874016" AltPlacement="0" SuppressLeading="False" SuppressTrailing="True" AngUnitFormat="0" AngPrecision="0" AngSuppressLeading="False" AngSuppressTrailing="False"/>
+        </Dim2LineAngular>
+    </Entities>

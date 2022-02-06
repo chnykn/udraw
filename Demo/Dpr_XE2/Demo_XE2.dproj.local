@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.457,=E:\Delphi\Works\UDraw\Source\Core\UdDocument.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.147,E:\Delphi\Works\UDraw\Demo\Demo.dproj=E:\Delphi\Works\UDraw\Demo\Dpr_XE2\Demo_XE2.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.092,=E:\Delphi\Works\UDraw\Source\Core\Entities\UdPoint.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.437,E:\Delphi\Works\UDraw\Source\Core\UdDocument.pas=</Transaction>
+    <Transaction>2020/04/05 20:45:39.000.927,=E:\Delphi\Works\UDraw\Source\Core\UdCursor.pas</Transaction>
+  </Transactions>
+</BorlandProject>

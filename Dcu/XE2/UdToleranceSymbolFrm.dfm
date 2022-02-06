@@ -1,0 +1,31 @@
+object UdToleranceSymbolForm: TUdToleranceSymbolForm
+  Left = 498
+  Top = 253
+  AutoSize = True
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsToolWindow
+  Caption = #20844#24046#31526#21495
+  ClientHeight = 41
+  ClientWidth = 185
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnlClient: TPanel
+    Left = 0
+    Top = 0
+    Width = 185
+    Height = 41
+    BevelOuter = bvNone
+    TabOrder = 0
+  end
+end

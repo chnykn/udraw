@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<Blocks TypeID="119">
+  <Block TypeID="109" Name="_ClosedBlank" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,0.166666666666667)" EndPoint="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,-0.166666666666667)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,0.166666666666667)" EndPoint="(-1,-0.166666666666667)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Closed" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,0.166666666666667)" EndPoint="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,-0.166666666666667)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,0.166666666666667)" EndPoint="(-1,-0.166666666666667)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Dot" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Polyline TypeID="8" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" SplineFlag="0" Closed="True" Vertexes="(-0.25,0),1;(0.25,0),1;(-0.25,0),0" Widths="(0.5,0.5);(0.5,0.5);(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Polyline>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_ArchTick" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Polyline TypeID="8" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" SplineFlag="0" Closed="False" Vertexes="(-0.5,-0.5),0;(0.5,0.5),0" Widths="(0.15,0.15);(0.15,0.15)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Polyline>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Oblique" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,-0.5)" EndPoint="(0.5,0.5)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Open" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,0.166666666666667)" EndPoint="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,-0.166666666666667)" EndPoint="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Origin" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Circle TypeID="5" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="0.5" Center="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Circle>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Origin2" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Circle TypeID="5" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="0.5" Center="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Circle>
+      <Circle TypeID="5" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="0.25" Center="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Circle>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Open90" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,0.5)" EndPoint="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-0.5,-0.5)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Open30" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,0.26794919)" EndPoint="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,-0.26794919)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_DotSmall" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Polyline TypeID="8" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" SplineFlag="0" Closed="True" Vertexes="(-0.0625,0),1;(0.0625,0),1;(-0.0625,0),0" Widths="(0.5,0.5);(0.5,0.5);(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Polyline>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_DotBlank" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Circle TypeID="5" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="0.5" Center="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Circle>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Small" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Circle TypeID="5" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="0.25" Center="(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Circle>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_BoxBlank" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,-0.5)" EndPoint="(0.5,-0.5)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0.5,-0.5)" EndPoint="(0.5,0.5)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0.5,0.5)" EndPoint="(-0.5,0.5)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,0.5)" EndPoint="(-0.5,-0.5)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_BoxFilled" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Polyline TypeID="8" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="True" FillStyle="0" HasBorder="False" SplineFlag="0" Closed="True" Vertexes="(-0.5,0.5),0;(0.5,0.5),0;(0.5,-0.5),0;(-0.5,-0.5),0;(-0.5,0.5),0" Widths="(0,0);(0,0);(0,0);(0,0);(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Polyline>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-0.5,0)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_DatumBlank" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,0.57735027)" EndPoint="(-1,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(-1,0)" EndPoint="(0,-0.57735027)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+      <Line TypeID="1" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" StartPoint="(0,-0.57735027)" EndPoint="(0,0.57735027)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Line>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_DatumFilled" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Polyline TypeID="8" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-3" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="True" FillStyle="0" HasBorder="False" SplineFlag="0" Closed="True" Vertexes="(0,0.57735027),0;(-1,0),0;(0,-0.57735027),0;(0,-0.57735027),0;(0,0.57735027),0" Widths="(0,0);(0,0);(0,0);(0,0);(0,0)">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Polyline>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_Integral" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99">
+      <Arc TypeID="6" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="0.45416667" Center="(0.44488802,-0.09133463)" StartAngle="101.99999999804" EndAngle="167.999999979919" ArcKind="0">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Arc>
+      <Arc TypeID="6" Ver="1" Key="" Layer="0" LineTypeScale="1" LineWeight="-2" PenStyle="0" UsePenStyle="False" PenWidth="0" Filled="False" FillStyle="0" HasBorder="False" Radius="0.45416667" Center="(-0.44488802,0.09133463)" StartAngle="282.000000021543" EndAngle="348.000000003422" ArcKind="0">
+        <Color TypeID="101" ByKind="2" ColorType="1" TrueColor="16777215" IndexColor="7"/>
+        <LineType TypeID="102" ByKind="2" Name="ByBlock" Comment="" Value=""/>
+      </Arc>
+    </Entities>
+  </Block>
+  <Block TypeID="109" Name="_None" Origin="(0,0)" IsSys="True">
+    <Entities TypeID="99" />
+  </Block>  
+</Blocks>

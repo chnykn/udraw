@@ -1,0 +1,12 @@
+目录说明：
+  Bin      : 编译的exe文件的存放目录
+  Dcu      : 编译产生的Duc的存放目录
+  Source   : 改Demo程序的源码
+  Dpr_D7   : Delphi7的工程文件
+  Dpr_D2007: Delphi2007的工程文件
+  Dpr_XE2  : DelphXE2的工程文件
+  Toolbar  : 该Demo程序用到的第三方控件TB2K和SpTBX,如果没有安装过该套控件，请自行安装,在Toolbar的Lib目录下已经有编译好相应Delphi版本的bpl
+
+程序说明：
+  针对AutoCAD的文件格式，控件本身只支持Dxf格式的读写；
+  不过该Demo程序通过ODA提供的免费程序(http://www.opendesign.com/guestfiles/TeighaFileConverter)，利用其本身支持的命令行参数调用，进行dwg与dxf之间的转换进行的打开和保存.
