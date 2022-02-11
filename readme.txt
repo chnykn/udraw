@@ -1,1 +1,1 @@
-A Delphi VCL that realizes most of the two-dimensional functions of AutoCAD
+A Delphi VCL that reimplement most of the two-dimensional functions of AutoCAD
